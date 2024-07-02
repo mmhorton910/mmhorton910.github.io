@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Pink Pony Club",
+        "artist": "Chappell Roan",
+        "year": 2020,
+        "genres": ["Pop"]
+    },
+    {
+        "title": "Cuff It",
+        "artist": "Beyoncé",
+        "year": 2022,
+        "genres": ["Funk", "Disco"]
+    },
+    {
+        "title": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": 1983,
+        "genres": ["R&B", "Funk"]
+    },
+    {
+        "title": " 16 Carriages",
+        "artist": "Beyoncé",
+        "year": 2024,
+        "genres": ["Country"]
+    },
+    {
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "year": 2024,
+        "genres": ["Pop"]
+    },
+    {
+        "title":  "I Do",
+        "artist": "Reneé Rapp",
+        "year": 2023,
+        "genres": ["Alternative", "Pop"]
+    },
+    {
+        "title": "Cozy",
+        "artist": "Beyoncé",
+        "year": 2022,
+        "genres": ["House"]
+    },
+    {
+        "title": "P.Y.T. (Pretty Young Thing)",
+        "artist": "Michael Jackson",
+        "year": 1983,
+        "genres": ["Disco", "Funk"]
+    },
+    {
+        "title": "Virgo's Groove",
+        "artist": "Beyoncé",
+        "year": 2022,
+        "genres": ["Funk", "Disco"]
+    },
+    {
+        "title": "Dirty Diana",
+        "artist": "Michael Jackson",
+        "year": 1988,
+        "genres": ["Pop", "Rock"]
+    }
+]
